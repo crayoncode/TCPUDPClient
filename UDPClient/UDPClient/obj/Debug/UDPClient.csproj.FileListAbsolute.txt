@@ -1,0 +1,9 @@
+F:\visualstudio2012\Projects\UDPClient\UDPClient\bin\Debug\UDPClient.exe.config
+F:\visualstudio2012\Projects\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+F:\visualstudio2012\Projects\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+F:\visualstudio2012\Projects\UDPClient\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+F:\visualstudio2012\Projects\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
+E:\visualstudio2012\Projects\UDPClient\UDPClient\bin\Debug\UDPClient.exe.config
+E:\visualstudio2012\Projects\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+E:\visualstudio2012\Projects\UDPClient\UDPClient\obj\Debug\UDPClient.pdb

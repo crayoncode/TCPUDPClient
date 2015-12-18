@@ -1,0 +1,12 @@
+F:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+F:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+F:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+F:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+F:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+F:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+E:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+E:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+E:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+E:\visualstudio2012\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+E:\visualstudio2012\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
